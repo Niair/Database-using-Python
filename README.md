@@ -117,23 +117,8 @@ sales-data-summary/
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions or suggestions, please open an issue or contact me at [your-email@example.com].
-
----
-
 **Happy coding!** 🚀
 
 ---
 
 Feel free to customize the repository URL, contact info, or add any badges (like build status or license) as you see fit.
-
----
-Answer from Perplexity: pplx.ai/share
